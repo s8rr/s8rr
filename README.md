@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/93143691?v=4"  />
-</div>
 
 ###
 
@@ -14,12 +11,6 @@
   <a href="https://discord.gg/aYEqQKaW4C" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=s8rr.s8rr&"  />
 </div>
 
 ###
