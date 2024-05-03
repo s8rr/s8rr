@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm sabbir from Bangladesh.<br>- 🔭 I’m a student.<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time I try to learn new stuff like Server Management.</p>
+<p align="left">I'm sabbir,<br>- 🔭 I’m a student.<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time I try to learn new stuff like Server Management.</p>
 
 ###
 
