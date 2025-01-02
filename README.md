@@ -73,6 +73,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s8rr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s8rr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="![s8rr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s8rr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)" height="150" alt="languages graph"  />
 </div>
 
