@@ -73,6 +73,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s8rr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s8rr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s8rr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />  
+<img src="[https://github-readme-stats.vercel.app/api?username=s8rr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true](https://github-readme-streak-stats.herokuapp.com/?user=s8rr&theme=tokyonight&hide_border=true)" height="150" alt="stats graph"  />
 </div>
 
