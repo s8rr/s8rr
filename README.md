@@ -60,7 +60,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c#" height="40" alt="c# logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="c# logo"  />
   
 </div>
 
