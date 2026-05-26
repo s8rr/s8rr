@@ -14,13 +14,7 @@
 </div>
 
 ###
-
-<h3 align="left">hey there.</h3>
-
-
-<p align="left">I'm sabbir,<br>- 🔭 a student.<br>- 📚  currently learning C#<br>- ⚡ In my free time I try to learn new stuff like Server Management.</p>
-
-###
+Open Source all the way.
 
 <h3 align="left">🛠 Language and tools</h3>
 
