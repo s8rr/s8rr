@@ -63,8 +63,7 @@ Open Source all the way.
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=s8rr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true%22%20height=%22150" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=s8rr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s8rr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />  
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=s8rr&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </div>
